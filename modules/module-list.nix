@@ -1,7 +1,7 @@
 # Then add our additional modules.
 # Keep this list `:sort`ed.
 [
-  #./adb.nix
+  ./adb.nix
   #./beautification.nix
   #./boot-control.nix
   #./boot-initrd.nix
