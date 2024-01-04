@@ -2,17 +2,17 @@
 # Keep this list `:sort`ed.
 [
   ./adb.nix
-  #./beautification.nix
-  #./boot-control.nix
-  #./boot-initrd.nix
-  #./boot.nix
-  #./bootloader.nix
-  #./cross-workarounds.nix
-  #./devices-metadata.nix
-  #./disk-image.nix
-  #./documentation.nix
-  #./eg25-manager.nix
-  #./hardware-eink.nix
+  ./beautification.nix
+  ./boot-control.nix
+  ./boot-initrd.nix
+  ./boot.nix
+  ./bootloader.nix
+  ./cross-workarounds.nix
+  ./devices-metadata.nix
+  ./disk-image.nix
+  ./documentation.nix
+  ./eg25-manager.nix
+  ./hardware-eink.nix
   #./generated-disk-images.nix
   #./generated-filesystems.nix
   #./hardware-allwinner.nix
