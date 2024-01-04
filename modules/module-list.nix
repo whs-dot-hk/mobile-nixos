@@ -40,7 +40,7 @@
   ./initrd.nix
   ./internal.nix
   ./kernel-config.nix
-  ./lib.nix
+  #./lib.nix
   ./luks.nix
   ./mobile.nix
   ./mobile-device.nix
