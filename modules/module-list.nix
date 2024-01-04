@@ -23,7 +23,7 @@
   ./hardware-ram.nix
   ./hardware-rockchip.nix
   ./hardware-screen.nix
-  ./hardware-soc.nix
+  #./hardware-soc.nix
   ./hardware.nix
   ./initrd-base.nix
   ./initrd-boot-gui.nix
